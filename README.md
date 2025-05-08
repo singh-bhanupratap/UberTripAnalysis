@@ -1,6 +1,6 @@
 # Uber Trip Analysis
 
-This project presents a comprehensive analysis of Uber trip data for June 2024 across various parts of New York City, using interactive Power BI dashboards. The analysis is based on two datasets:
+This project presents a comprehensive analysis of Uber trip data for June 2024 across various parts of New York, using interactive Power BI dashboards with extensive use of DAX functionalities. The analysis is based on two datasets:
 
 1.) Uber Trip Details (individual ride records)
 
