@@ -6,6 +6,7 @@ This project presents a comprehensive analysis of Uber trip data for June 2024 a
 
 2.) Location Table (corresponding location information)
 
+
 The analysis is presented through two main dashboards and a supporting data tab:
 
 1. Overview Analysis Dashboard:
@@ -21,6 +22,7 @@ Insights:
 
 (iv) Penn Station / Madison Sq West is the busiest pickup point, while Upper East Side North is the most frequent drop-off location.
 
+
 2. Time Analysis Dashboard:
 This dashboard explores trends over time, including booking patterns by pick up time of day, and day of the week.
 
@@ -31,6 +33,7 @@ Insights:
 (ii) Longest trips occur around 17:10, with a total of 4,880.3 miles traveled during that time.
 
 (iii) Weekends (Sat & Sun) show the highest number of bookings, while Thursdays and Fridays show the lowest.
+
 
 3. Details Tab (Supporting Page):
 
