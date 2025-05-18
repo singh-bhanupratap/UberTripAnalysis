@@ -10,7 +10,7 @@ This project presents a comprehensive analysis of Uber trip data for June 2024 a
 The analysis is presented through two main dashboards and a supporting data tab:
 
 1. Overview Analysis Dashboard:
-This dashboard provides a high-level summary of total bookings, total trip distance, and total booking value, and their breakdown by metrics like payment type, and vehicle type, along with location based analyses.
+This dashboard provides an in depth summary of total bookings, total trip distance, and total booking value, and their breakdown by metrics like payment type, and vehicle type, along with location based analyses.
 
 Insights:
 
